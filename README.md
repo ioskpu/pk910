@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=pk910&show_icons=true&theme=dark&count_private=true)<br>
-![](https://raw.githubusercontent.com/pk910/pk910/refs/heads/main/github-metrics.svg)
+![](https://github-readme-stats.vercel.app/api?username=ioskpu&show_icons=true&theme=dark&count_private=true)<br>
+![](https://raw.githubusercontent.com/ioskpu/ioskpu/refs/heads/main/github-metrics.svg)
 
 <!--
-**pk910/pk910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ioskpu/ioskpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
